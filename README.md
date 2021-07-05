@@ -3,7 +3,7 @@
 Turma Online 11 - Todas em Tech | Back-end | 2021 | Semana 18: Desenvolver uma API que realize um CRUD com um tema livre
 
 ## 
-<img src="https://www.canva.com/design/DAEjBE2EFNs/KpOlq6KK98oRro5Gj1_6HA/view?utm_content=DAEjBE2EFNs&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" Apresentação" width="200">
+<img src="https://i.ibb.co/RN3MNvL/Welcome-Back-to-Sandy-Spring-1.png" alt="Apresentação" width="200">
 
 ## Contrato
 Acesse a apresentação para conferir as informações de forma visual: 
@@ -137,7 +137,6 @@ DELETE
 <br>
 
 ## Ana Carolina Silva Nappo
-- [instagram](https://www.instagram.com/simara_conceicao)
 - [linkedin](https://www.linkedin.com/in/aanacarolina/)
 - [github](https://github.com/aanacarolina)
 ```
