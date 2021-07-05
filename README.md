@@ -3,8 +3,7 @@
 Turma Online 11 - Todas em Tech | Back-end | 2021 | Semana 18: Desenvolver uma API que realize um CRUD com um tema livre
 
 ## 
-* 
-<img src="https://www.dreamstime.com/royalty-free-stock-photography-connection-people-image14870867" alt="video chamada" width="200">
+<img src="https://www.canva.com/design/DAEjBE2EFNs/KpOlq6KK98oRro5Gj1_6HA/view?utm_content=DAEjBE2EFNs&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" Apresentação" width="200">
 
 ## Contrato
 Acesse a apresentação para conferir as informações de forma visual: 
@@ -23,12 +22,12 @@ https://www.canva.com/design/DAEjPIZJNaU/HKhH84iKZeY062d3tUazNQ/view?utm_content
 <br>
 <br>
 
+```
 ## Sobre o Projeto
 
 A **DOAR!** é um sistema de cadastro para conectar pessoas que querem fazer uma doação de alimentos e pontos de coleta em diversos locais na cidade de Brasília-DF. 
 
 Receberemos cadastros de estabelecimentos referenciando cada categoria de atuação (academias, farmácias e hotéis). Mesmo que o MongoDB seja não relacional, usei utilizando os conhecimentos adquiridos no curso para demonstrar essa possibilidade dentro de um BD NoSQL.  
-
 ```
 
 ## Tecnologias usadas:
@@ -43,45 +42,10 @@ Receberemos cadastros de estabelecimentos referenciando cada categoria de atuaç
 |`Insomnia ` | Interface gráfica para realizar os testes|
 | `MongoDb` | Banco de dado não relacional orientado a documentos|
 | `mongoose` | Dependência que interage com o MongoDB para a conexão da database, criação do model e das collections|
-| `MongoDb Compass| Interface gráfica para verificar se os dados foram persistidos|
-| `MongoDb Atlas| Interface gráfica para verificar se os dados foram persistidos|
+| `MongoDb Compass` | Interface gráfica para verificar se os dados foram persistidos|
+| `MongoDb Atlas`| Interface gráfica para verificar se os dados foram persistidos|
 |`Github` | Ferramenta de versionamento de código|
 |`Heroku` |  plataforma nuvem que faz deploy de várias aplicações back-end |
-
-<br>
-<br>
-
-## 📁 Arquitetura 
-
-```
- 📁 Doar
-   |
-   |-  📁 src
-   |    |
-   |    |- 📁 data
-   |         |- 📄 database.js
-   |
-   |    |- 📁 controllers
-   |         |- 📄 categoryController.js
-   |         |- 📄 shopController.js
-   |
-   |    |- 📁 models
-   |         |- 📄 category.js
-   |         |- 📄 shop.js
-   |
-   |    |- 📁 routes
-   |         |- 📄 categoriesRoutes.js 
-   |         |- 📄 shopsRoutes.js 
-   |
-   |
-   |- 📄 .env
-   |- 📄 .env.example
-   |- 📄 .gitignore
-   |- 📄 package-lock.json
-   |- 📄 package.json
-   |- 📄 server.js
-
-```
 
 <br>
 <br>
@@ -138,7 +102,42 @@ DELETE
 <br>
 <br>
 
+## 📁 Arquitetura 
+
+```
+ 📁 Doar
+   |
+   |-  📁 src
+   |    |
+   |    |- 📁 data
+   |         |- 📄 database.js
+   |
+   |    |- 📁 controllers
+   |         |- 📄 categoryController.js
+   |         |- 📄 shopController.js
+   |
+   |    |- 📁 models
+   |         |- 📄 category.js
+   |         |- 📄 shop.js
+   |
+   |    |- 📁 routes
+   |         |- 📄 categoriesRoutes.js 
+   |         |- 📄 shopsRoutes.js 
+   |
+   |
+   |- 📄 .env
+   |- 📄 .env.example
+   |- 📄 .gitignore
+   |- 📄 package-lock.json
+   |- 📄 package.json
+   |- 📄 server.js
+
+```
+<br>
+<br>
+
 ## Ana Carolina Silva Nappo
 - [instagram](https://www.instagram.com/simara_conceicao)
 - [linkedin](https://www.linkedin.com/in/aanacarolina/)
 - [github](https://github.com/aanacarolina)
+```
