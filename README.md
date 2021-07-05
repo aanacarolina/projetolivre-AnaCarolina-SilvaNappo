@@ -2,10 +2,9 @@
 
 Turma Online 11 - Todas em Tech | Back-end | 2021 | Semana 18: Desenvolver uma API que realize um CRUD com um tema livre
 
-## 
+## Contrato
 <img src="https://i.ibb.co/RN3MNvL/Welcome-Back-to-Sandy-Spring-1.png" alt="Apresentação" width="200">
 
-## Contrato
 Acesse a apresentação para conferir as informações de forma visual: 
 https://www.canva.com/design/DAEjPIZJNaU/HKhH84iKZeY062d3tUazNQ/view?utm_content=DAEjPIZJNaU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
