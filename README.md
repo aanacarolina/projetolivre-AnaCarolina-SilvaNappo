@@ -14,7 +14,7 @@ https://www.canva.com/design/DAEjPIZJNaU/HKhH84iKZeY062d3tUazNQ/view?utm_content
  -Criar documentação (requisitos e regras de negócios) 
  - Desenvolvimento (codar)
  - Realização de testes no Insomnia e verificar se os dados estão persistindo na base de dados
- - Subir no GitHubo
+ - Subir no GitHub
  - Subir no servidor 
  - Apresentação 11/07/2021 (3 minutos para apresentação - terror e pânico)
 
