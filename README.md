@@ -13,7 +13,7 @@ https://www.canva.com/design/DAEjPIZJNaU/HKhH84iKZeY062d3tUazNQ/view?utm_content
  - Criar repositório no GitHub
  -Criar documentação (requisitos e regras de negócios) 
  - Desenvolvimento (codar)
- - Realização de testes no Insominia e verificar se os dados estão persistindo na base de dados
+ - Realização de testes no Insomnia e verificar se os dados estão persistindo na base de dados
  - Subir no GitHubo
  - Subir no servidor 
  - Apresentação 11/07/2021 (3 minutos para apresentação - terror e pânico)
@@ -42,7 +42,7 @@ Receberemos cadastros de estabelecimentos referenciando cada categoria de atuaç
 | `MongoDb` | Banco de dado não relacional orientado a documentos|
 | `mongoose` | Dependência que interage com o MongoDB para a conexão da database, criação do model e das collections|
 | `MongoDb Compass` | Interface gráfica para verificar se os dados foram persistidos|
-| `MongoDb Atlas`| Interface gráfica para verificar se os dados foram persistidos|
+| `MongoDb Atlas`| Banco de dados como serviço - na nuvem |
 |`Github` | Ferramenta de versionamento de código|
 |`Heroku` |  plataforma nuvem que faz deploy de várias aplicações back-end |
 
