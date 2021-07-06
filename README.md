@@ -81,10 +81,10 @@ DELETE
 ### Dados para Collection shop
 
 - id: autogerada e obrigatória
-- nome: texto e obrigatório
+- nomeFantasia: texto e obrigatório
 - endereço: texto e obrigatório 
 - bairro: texto e obrigatório
-- horario de funcionamento (?) texto e obrigatório
+- horarioFuncionamento: texto e obrigatório
 - email: obrigatório formato aceita caracteres específicos
 - categoria: referência da categoria cadastrada previamente obrigatório
 - criadoEm: data gerada automaticamente e obrigatório
